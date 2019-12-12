@@ -1,0 +1,168 @@
+ body {
+	font-family: Arial sans-serif;
+	margin:0;
+    padding: 0;
+    color: #e4e4da;
+    font-size: 13px;
+    line-height: 30px;
+    background-color: #242423;
+
+}
+ div{
+	box-sizing: border-box;
+	  display: block;
+}
+ header {
+	background: url(20.jpg) no-repeat center top / cover;
+    height: 600px;
+	border-bottom: 3px solid #605745;
+	z-index: 1;
+	top: 0;
+}
+ .container{
+	width: 930px;
+	margin: 0 auto;
+}
+ .77{
+	margin-top: 41px;
+	float: left;
+}
+ nav{
+    float: right;
+	margin-top: 35px;
+}
+ .menu{
+	padding: o;
+	margin: 0;
+	display: block
+}
+ .menu li{
+	 float: left;
+	 display: block;
+	 margin-right: 60px;
+ }
+ .menu li a{
+	color: #fff;  
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 11px;
+  }
+  .titles__first{
+	font-size: 50px;
+    color: #fff;
+	text-transform: uppercase;
+    text-align:	center;
+	padding-top:100px;
+  }
+  h1{
+	font-size: 45px;
+    color: #fff;
+	text-transform: uppercase;
+    text-align:	center; 
+  }
+  .button{
+	  background: #fed136;
+	  color: #484543;
+	  border-radius: 5px;
+	  display: block;
+	  width: 240px;
+	  padding: 20px;
+	  margin: 0 auto;
+	  text-decoration: none;
+	  text-align: center;
+	  text-transform: uppercase;
+	  font-weight: bold;
+	  font-size: 18px;
+	  margin-top: 90px;
+  }
+ .title{
+	 padding-top: 150px;
+ } 
+ .title h2{
+	font-size: 40px;
+	font-weight: bold; 
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0;
+ }
+ }	
+ .title p{
+	 color: #777777;
+	 font-size: 16px;
+	 margin-top: 5px;
+	 text-align: center;
+ }
+ .nanachi{
+	 margin-top: 80px;
+ }
+ .services__item{
+	 weight: 270px;
+	 float: left;
+	 text-align: center;
+ }
+ .services__item h3{
+	 font-size: 18px;
+	 margin-bottom: 5px;
+ }
+ .services__item p{
+	 color: #777777;
+	 font-size: 14px;
+	 line-height: 2 em;
+ }
+ .services__item:last-child{
+	 float: right;
+ }
+ .services__item:nth-child(2){
+	margin-left: 50px; 
+ }
+ element.style {
+}
+.one_fourth {
+	text-align: center;
+    padding-left: 60px;
+}
+.col {
+    float: left;
+    margin: 0 30px 30px 0;
+}
+#templatemo_footer {
+    color: #333;
+}
+img {
+    margin: 0;
+    padding: 0;
+}
+#templatemo_footer a {
+    color: #000;
+}
+a:link, a:visited {
+    color: #c49e33;
+    text-decoration: none;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+li {
+    text-align: -webkit-match-parent;
+	list-style-type: none;
+}
+.foter_gallery {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+#templatemo_footer {
+    color: #333;
+}
+
+.nanachi_gallery {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	gap: 50px;
+
+}
